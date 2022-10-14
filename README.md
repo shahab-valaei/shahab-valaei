@@ -5,11 +5,11 @@ I have some experience in creating simulation models as policy analysis tools ev
 
 ### Keywords:
 * Urban Planning
-Infrastructure systems
-Land and housing markets
-Agent-Based Modelling
-System dynamics
-Geographical Information System (GIS)
+* Infrastructure systems
+* Land and housing markets
+* Agent-Based Modelling
+* System dynamics
+* Geographical Information System (GIS)
 
 <p>
 
