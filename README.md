@@ -1,5 +1,5 @@
 <p> 
-I am a Ph.D. student in Urban Planning at the University of Waterloo, Ontario, Canada. I hold a master’s degree in Civil Engineering with a major in Construction Engineering and Management from the Sharif University of Technology (2021). I am interested in applying simulation and modelling techniques to interdisciplinary research in areas such as land and housing markets, urban infrastructure systems, and healthy cities.
+I am a Ph.D. student in Urban Planning at the University of Waterloo, Ontario, Canada. I have a master’s degree in Civil Engineering with a major in Construction Engineering and Management. I am interested in applying simulation and modelling techniques to interdisciplinary research in areas such as land and housing markets, urban infrastructure systems, and healthy cities.
 
 I have some experience in creating simulation models as policy analysis tools evaluating the effectiveness of community response and mitigation policies in the face of crises, such as natural disasters and pandemics. Currently, I am working on the application of system thinking techniques to longer-term urban problems with the final goal of making healthy cities.
 
