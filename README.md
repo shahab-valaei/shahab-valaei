@@ -1,12 +1,5 @@
 <p>
 
-### Keywords:
-* Urban Planning
-* Infrastructure systems
-* Land and housing markets
-* Agent-Based Modelling
-* System dynamics
-* Geographical Information System (GIS)
 
 <p>
 
